@@ -893,6 +893,7 @@ background: #e3e3e3;
     position: relative;
     width: 100%;
     background: url("../images/testimonial-bg.jpg") no-repeat scroll center center / cover;
+	padding: 80px 0px;
 }
 .testimonial-parallax-bg {
     background: url("../images/testimonial-bg.jpg") no-repeat fixed center center / cover;
