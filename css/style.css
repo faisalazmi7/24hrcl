@@ -875,6 +875,7 @@ background: #e3e3e3;
 .single-service .media .media-body > li {
     font-size: 16px;
     line-height: 24px;
+	list-style: none;
 }
 
 .single-service .media:hover {
