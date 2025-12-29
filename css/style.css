@@ -10,6 +10,7 @@ Designed and Developed by: ThemeBite
 
 .single-service2 {
 	width: 380px;
+	max-width: 100%;
 	float: none;
 	display: inline-block;
 	margin: 0px;
@@ -26,6 +27,8 @@ Designed and Developed by: ThemeBite
 
 .single-service3 {
 	width: 480px;
+		max-width: 100%;
+
 	float: none;
 	display: inline-block;
 	margin: 0px;
@@ -76,6 +79,8 @@ margin-bottom: 30px;
 
 .single-service4 {
 	width: 386px;
+		max-width: 100%;
+
 	float: none;
 	display: inline-block;
 	margin: 0px;
