@@ -164,6 +164,11 @@
   text-align: center;
   padding: 0;
 }
+
+.single-service4 .media .media-body {
+	padding: 0px 10px;
+	text-align: left !important;
+}
 .single-service .media .media-body {
   text-align: center;
 }
