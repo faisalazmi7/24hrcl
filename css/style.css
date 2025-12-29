@@ -39,6 +39,12 @@ Designed and Developed by: ThemeBite
 	padding: 60px 0px !important;
 }
 
+.our-service-main .media:hover{
+	background: none !important;
+}
+.our-service-main .media:hover *{
+	color: #000 !important;
+}
 
 #team {
 	padding-top: 40px;
